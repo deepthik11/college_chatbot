@@ -3,7 +3,7 @@ import requests
 from bs4 import BeautifulSoup
 
 # 🔑 ADD YOUR API KEY HERE
-client = Groq(api_key="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")
+client = Groq(api_key="")
 
 # College URLs
 urls = [
